@@ -1,0 +1,66 @@
+DONE
+
+2 s21_memcmp    TESTED DONE
+3 s21_memcpy    TESTED DONE
+8 s21_strchr    TESTED DONE
+6 s21_strcat    TESTED DONE
+7 s21_strncat   TESTED DONE
+9 s21_strcmp    TESTED DONE
+10 s21_strncmp  TESTED DONE
+16 s21_strpbrk  TESTED DONE
+17 s21_strrchr  TESTED DONE
+11 s21_strcpy   TESTED DONE
+15 s21_strlen   TESTED DONE
+12 strncpy      TESTED DONE
+18 strspn       TESTED DONE
+13 strcspn      TESTED DONE
+19 strstr       TESTED DONE
+1 memchr        TESTED DONE
+14 strerror     TESTED DONE
+4 memmove       TESTED DONE
+5 memset        TESTED DONE
+20 strtok       TESTED DONE
+to_upper        TESTED DONE
+to_lower        TESTED DONE
+insert          TESTED DONE
+trim            TESTED DONE     OBRABOTAT' NULL TRIM CHARS
+
+SPEC
+c               DONE
+d or i          DONE
+e E             DONE
+f               DONE
+g G             DODELAT'
+o               DONE
+s               DONE
+u               DONE
+x X             DONE
+p               DONE
+n               DONE
+%               DONE
+
+
+FLAGS
+
+-
++
+space
+#
+0
+
+width           IN PROCESS
+*               DONE
+.chislo         DONE
+.               DONE
+HEIGHT
+
+h               DONE
+l               DONE
+L      
+
+NEED 
+
+sprintf         10%DONE
+sscanf
+
+
